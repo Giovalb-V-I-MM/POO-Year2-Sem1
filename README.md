@@ -1,0 +1,2 @@
+Dopo molti problemi con i computer, i codici della cartella Lab_01 sono stati persi molteplici volte, sia sul fisso di casa sia sul portatile per via di malfunzionamenti e dell'installazione del nuovo sistema operativo (passaggio da Win8 a Pop OS!(Linux))
+Se si ritiene necessaria la consegna degli esercizi del folder Lab_01 per favore mi faccia sapere cosi che possano essere rifatti da capo. Mi scusi prof.
